@@ -1,2 +1,2 @@
 # S04590
-Container for the JWST data presented in Heintz+22
+Container for the JWST data presented in Heintz et al. (submitted)
